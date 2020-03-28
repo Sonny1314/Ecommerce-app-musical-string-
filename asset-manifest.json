@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "http//Sonny1314.github.io/react-deploy/static/css/main.4f797c4d.chunk.css",
+    "main.js": "http//Sonny1314.github.io/react-deploy/static/js/main.cee3f27f.chunk.js",
+    "main.js.map": "http//Sonny1314.github.io/react-deploy/static/js/main.cee3f27f.chunk.js.map",
+    "runtime-main.js": "http//Sonny1314.github.io/react-deploy/static/js/runtime-main.190eb4a8.js",
+    "runtime-main.js.map": "http//Sonny1314.github.io/react-deploy/static/js/runtime-main.190eb4a8.js.map",
+    "static/js/2.c2fd09c5.chunk.js": "http//Sonny1314.github.io/react-deploy/static/js/2.c2fd09c5.chunk.js",
+    "static/js/2.c2fd09c5.chunk.js.map": "http//Sonny1314.github.io/react-deploy/static/js/2.c2fd09c5.chunk.js.map",
+    "index.html": "http//Sonny1314.github.io/react-deploy/index.html",
+    "precache-manifest.541de1e246304ab536a9cd6346627f42.js": "http//Sonny1314.github.io/react-deploy/precache-manifest.541de1e246304ab536a9cd6346627f42.js",
+    "service-worker.js": "http//Sonny1314.github.io/react-deploy/service-worker.js",
+    "static/css/main.4f797c4d.chunk.css.map": "http//Sonny1314.github.io/react-deploy/static/css/main.4f797c4d.chunk.css.map",
+    "static/js/2.c2fd09c5.chunk.js.LICENSE.txt": "http//Sonny1314.github.io/react-deploy/static/js/2.c2fd09c5.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "http//Sonny1314.github.io/react-deploy/static/media/logo.73a26ff5.png",
+    "static/media/payment.png": "http//Sonny1314.github.io/react-deploy/static/media/payment.e931a86c.png",
+    "static/media/return.png": "http//Sonny1314.github.io/react-deploy/static/media/return.e83771f4.png",
+    "static/media/slide1.jpg": "http//Sonny1314.github.io/react-deploy/static/media/slide1.43325e94.jpg",
+    "static/media/slide2.jpg": "http//Sonny1314.github.io/react-deploy/static/media/slide2.27381c95.jpg",
+    "static/media/slide3.jpg": "http//Sonny1314.github.io/react-deploy/static/media/slide3.c0b54f58.jpg",
+    "static/media/trust.png": "http//Sonny1314.github.io/react-deploy/static/media/trust.8b8f7cf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.190eb4a8.js",
+    "static/js/2.c2fd09c5.chunk.js",
+    "static/css/main.4f797c4d.chunk.css",
+    "static/js/main.cee3f27f.chunk.js"
+  ]
+}
